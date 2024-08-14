@@ -1,1 +1,10 @@
 
+yt-remote-cast-installed  {"data":"true","creation":1723655403082}  
+session_logininfo  AFmmF2swRgIhANu6-JL3RmvV2QbfxZXApSTwcF9-tCWaUx8WgY629GmDAiEAxYKYSvIOFNesWqEDzo8jRzhOQxMAtp0V60oh685ZCfw:QUQ3MjNmeEN6TXVORktMSU5QcnpVc0Z4X0tNQXZYUVFDVmtOY3QwZnVwTzZFRVQ0amFtb1ZpbkVDZ2pXNm8zX1p4Z2hhZ3ZyNk1YM1J3eTBhM05Ua3FjTkpfbDFha29kSElhV0NXWndIZTlkLUlDR2F4S3BUNGNRa25mdjhRR1dyT1psQnJBei1SRlNUNVpWcTgtQmFpejBuLVdQMnJ4bjF3  
+yt-remote-session-app  {"data":"youtube-desktop","creation":1723655402555}  
+iU5q-!O9@$  1,-7005b1db31aa8e3  
+yt-player-autonavstate  {"data":"2","creation":1723655689282}  
+yt-remote-session-name  {"data":"Desktop","creation":1723655402555}  
+yt-remote-cast-available  {"data":"false","creation":1723655403085}  
+-7005b1db31aa8e3  8iFTQ4+TRkBq1eZL30CNacBG3h5zBKYPpjvAC3+Ul2v2WLC+UBOV1JSVYXt9u7vBh/PgTk1FVLQj7m5UD9FgqKC+M219ynYLOk+ztHD1uRIRttDyZm3lvTrt4+1w5cNkazByPZGxoAHU9Elm  
+yt-remote-fast-check-period  {"data":"1723655702555","creation":1723655402555}
